@@ -1,4 +1,4 @@
-## olá, Eu sou marcio sena
+## Olá, eu ou marcio sena
 
 - 🔭 Hoje eue trabalho com front-end
 - 🌱 Estou estudando JavaScript
@@ -23,4 +23,3 @@
   <a href="https://www.linkedin.com/in/márciosena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-

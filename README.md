@@ -1,4 +1,4 @@
-## oi eu sou marcio sena
+## olá, Eu sou marcio sena
 
 - 🔭 Hoje eue trabalho com front-end
 - 🌱 Estou estudando JavaScript

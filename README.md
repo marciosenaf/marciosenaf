@@ -1,6 +1,6 @@
 ## Olá, eu sou Márcio Sena
 
-- 🔭 Hoje eu estou trabalho com front-end
+- 🔭 Hoje eu estou trabalho com back-end
 - 🌱 Estou estudando JavaScript
 
 <div align="center">

@@ -1,7 +1,7 @@
 ## Olá, eu sou Márcio Sena
 
 - 🔭 Hoje eu estou trabalho como desenvolvedor de software
-- 🌱 Estou estudando JavaScript
+- 🌱 Estou estudando tudo relacionado a JavaScript
 
 <div align="center">
   <a href="https://github.com/marciosenaf">

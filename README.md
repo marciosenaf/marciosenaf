@@ -1,6 +1,6 @@
 ## Olá, eu sou Márcio Sena
 
-- 🔭 Hoje eu estou trabalho como desenvolvedor de software
+- 🔭 Hoje eu estou desevolvimento de software
 - 🌱 Estou estudando tudo relacionado a JavaScript
 
 <div align="center">

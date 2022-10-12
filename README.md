@@ -1,6 +1,7 @@
 ## Olá, eu sou Márcio Sena
 
-- 🌱 Estou estudando tudo relacionado a JavaScript
+- ![image](https://user-images.githubusercontent.com/97891534/195225175-fda5b23f-b5cf-4da9-8c6a-ff4c435c173c.png)
+ 
 
 <div align="center">
   <a href="https://github.com/marciosenaf">

@@ -1,6 +1,6 @@
 ## Olá, eu sou Márcio Sena
 
-![image](https://user-images.githubusercontent.com/97891534/195225238-af78c40d-f14b-4858-8eb3-23c5e2962eed.png)
+   - 👨‍💻 MERN developer
  
 
 <div align="center">

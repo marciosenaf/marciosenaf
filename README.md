@@ -1,6 +1,6 @@
 ## Olá, eu sou Márcio Sena
 
-- ![image](https://user-images.githubusercontent.com/97891534/195225175-fda5b23f-b5cf-4da9-8c6a-ff4c435c173c.png)
+![image](https://user-images.githubusercontent.com/97891534/195225238-af78c40d-f14b-4858-8eb3-23c5e2962eed.png)
  
 
 <div align="center">

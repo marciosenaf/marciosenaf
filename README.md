@@ -1,6 +1,6 @@
 ## Olá, eu sou Márcio Sena
 
-   - 👨‍💻 MERN developer
+   - 👨‍💻 Full Stack Developer | MERN
  
 
 <div align="center">

@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
    
   
- <h1 align="center"> 
+ <p align="center"> 
   <img align="center" alt="marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="marcio-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,16 +21,15 @@
   <img align="center" alt="marcio-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="marcio-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="marcio-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-</h1>
-
-
-</div>
+</p>
   
-  ##
+  
  
-<div> 
+<br></br>
+  <h1 align="center">
   <a href="https://instagram.com/marciosena_f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
   <a href="https://www.linkedin.com/in/márciosena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  </h1>
 
+  
 ![snake gif](https://github.com/marciosenaf/marciosenaf/blob/output/github-contribution-grid-snake.svg)

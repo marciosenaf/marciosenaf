@@ -1,12 +1,7 @@
 <img alt="" title="Views" align="right" src="https://visitor-badge.glitch.me/badge?page_id=marciosenaf.marciosenaf" />
 <h1 align="center">👋 Eai, eu sou Márcio Sena</h1> 
 
-![]()
-
    <h4 align="center">- 👨‍💻 Full Stack Developer | MERN </h4>
- 
-![]()
-![]()
 
 <div align="center">
   <a href="https://github.com/marciosenaf">

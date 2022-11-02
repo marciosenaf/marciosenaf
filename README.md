@@ -1,7 +1,11 @@
-<h1 align="center">👋 Eai, eu sou Márcio Sena<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=marciosenaf&label=&style=flat-square&color=blueviolet" /></h1> 
+<h1 align="center">👋 Eai, eu sou Márcio Sena<img alt="" title="Views" align="right" src="https://visitor-badge.glitch.me/badge?page_id=marciosenaf.marciosenaf" /></h1> 
+
+![]()
 
    - 👨‍💻 Full Stack Developer | MERN
  
+![]()
+![]()
 
 <div align="center">
   <a href="https://github.com/marciosenaf">

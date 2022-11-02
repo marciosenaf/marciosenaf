@@ -9,7 +9,7 @@
 </div>
 <div style="display: inline_block"><br>
    
-  <h1>Hard skills:<h1>
+  <h2>Hard skills:<h2>
  <p> 
   <img align="center" alt="marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="marcio-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -24,7 +24,7 @@
 </p>
   
   
-   <h1>Contacts: <h1>
+   <h2>Contacts: <h2>
   
   <a href="https://instagram.com/marciosena_f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
   <a href="https://www.linkedin.com/in/márciosena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

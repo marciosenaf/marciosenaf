@@ -1,4 +1,5 @@
-<h1 align="center">👋 Eai, eu sou Márcio Sena<img alt="" title="Views" align="right" src="https://visitor-badge.glitch.me/badge?page_id=marciosenaf.marciosenaf" /></h1> 
+<img alt="" title="Views" align="right" src="https://visitor-badge.glitch.me/badge?page_id=marciosenaf.marciosenaf" />
+<h1 align="center">👋 Eai, eu sou Márcio Sena</h1> 
 
 ![]()
 

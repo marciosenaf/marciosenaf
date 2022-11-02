@@ -2,7 +2,7 @@
 
 ![]()
 
-   - 👨‍💻 Full Stack Developer | MERN
+   <h4 align="center">- 👨‍💻 Full Stack Developer | MERN </h4>
  
 ![]()
 ![]()

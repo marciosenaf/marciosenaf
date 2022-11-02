@@ -1,4 +1,4 @@
-## Olá, eu sou Márcio Sena
+<h1 align="center">👋 Eai, eu sou Márcio Sena<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=marciosenaf&label=&style=flat-square&color=blueviolet" /></h1> 
 
    - 👨‍💻 Full Stack Developer | MERN
  

@@ -1,4 +1,3 @@
-<br>
 <img alt="" title="Views" align="right" src="https://visitor-badge.glitch.me/badge?page_id=marciosenaf.marciosenaf" />
 <h1 align="center">👋 Eai, eu sou Márcio Sena</h1> 
 <br>
@@ -11,7 +10,7 @@
 <div style="display: inline_block"><br>
    
   <h1>Hard skills:<h1>
- <p align=""> 
+ <p> 
   <img align="center" alt="marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="marcio-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,10 +25,9 @@
   
   
    <h1>Contacts: <h1>
-  <p align="">
+  
   <a href="https://instagram.com/marciosena_f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
   <a href="https://www.linkedin.com/in/márciosena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </p>
 
   
 ![snake gif](https://github.com/marciosenaf/marciosenaf/blob/output/github-contribution-grid-snake.svg)

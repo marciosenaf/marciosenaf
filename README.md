@@ -14,7 +14,7 @@ programação, encontrei não somente uma profissão mas também um hobby.
 </p>
 
 <p align="left">
-  🌐 Precisa de alguém que cria soluçoes? Entre em contato:
+  🌐 Precisa de alguém que crie soluçoes? Entre em contato:
 </p>
 
 <p align="left" >

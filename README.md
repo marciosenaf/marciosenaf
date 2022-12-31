@@ -1,31 +1,32 @@
-<img alt="" title="Views" align="right" src="https://visitor-badge.glitch.me/badge?page_id=marciosenaf.marciosenaf" />
-<h1 align="center">👋 Eai, eu sou Márcio Sena</h1> 
-<br>
-<div align="center">
-  <a href="https://github.com/marciosenaf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosenaf&layout=compact&langs_count=7&theme=merko"/>
-</div>
-<div style="display: inline_block"><br>
-   
-  <h2>Hard skills:<h2>
- <p> 
-  <img align="center" alt="marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="marcio-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="marcio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="marcio-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="marcio-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="marcio-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="marcio-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="marcio-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+Olá, meu nome é Marcio Sena. Trabalho com desenvolvimento de software, me dedico nessa área a mais de um ano, sempre gostei de solucionar problemas lógicos, na
+programação, encontrei não somente uma profissão mas também um hobby.  
 </p>
-  
-  
-   <h2>Contacts: <h2>
-  
-  <a href="https://instagram.com/marciosena_f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
-  <a href="https://www.linkedin.com/in/márciosena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<p align="left">
+  ☕️ Linguagens: <strong>Javascript, Typescript e SQL.</strong>
+</p>
+
+<p align="left">
+  🔧 Frameworks: <strong>Jest, React, Next, Nest e Express.</strong>
+</p>
+
+<p align="left">
+  🌐 Se precisar de alguém para criar soluçoes, entre em contato: ⤵️
+</p>
+
+<p align="left" >
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciosenaf/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/73998414135"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/marciosena_f/"/></a>
+</p>  
+
 
   
-![snake gif](https://github.com/marciosenaf/marciosenaf/blob/output/github-contribution-grid-snake.svg)

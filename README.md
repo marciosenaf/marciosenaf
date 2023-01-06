@@ -6,7 +6,7 @@ programação, encontrei não somente uma profissão mas também um hobby.
 </p>
 
 <p align="left">
-  ☕️ Linguagens: <strong>Javascript, Typescript e SQL.</strong>
+  ⚙️ Linguagens: <strong>Javascript, Typescript e SQL.</strong>
 </p>
 
 <p align="left">

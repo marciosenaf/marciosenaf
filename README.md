@@ -1,4 +1,4 @@
-<img src="https://github.com/marciosenaf/marciosenaf/blob/main/img/image.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/marciosenaf/marciosenaf/blob/main/img/images.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 Oi, meu nome é Marcio Sena. Trabalho com desenvolvimento de software, me dedico nessa área a mais de um ano, sempre gostei de solucionar problemas lógicos, na

@@ -1,7 +1,7 @@
 <img src="https://github.com/marciosenaf/marciosenaf/blob/main/img/image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Oi, meu nome é Marcio Sena. Trabalho com desenvolvimento de software, me dedico nessa área a mais de um ano, sempre gostei de solucionar problemas lógicos, na
+Trabalho com desenvolvimento de software, me dedico nessa área a mais de um ano, sempre gostei de solucionar problemas lógicos, na
 programação, encontrei não somente uma profissão mas também um hobby.  
 </p>
 

@@ -8,17 +8,26 @@ novas tecnologias
 
 <p align="left">
  <p>⚙️ Front-End:<p/> 
- <p> JavaScript | HTML5 | CSS3 | SASS | CSS-in-JS | Styled-Components | React.js | Next.js | Figma | PWA </p>
+ <p> 
+ JavaScript | HTML5 | CSS3 | SASS | Styled-Components | <br/>
+ CSS-in-JS | React.js | Next.js | Figma | PWA
+</p>
 </p>
 
 <p align="left">
   <p>🔧 Back-End:<p/>
- <p> JavaScript | Typescript | Golang | Gin | Node.js | Express | Nest.js | Firebase | noSQL | SQL |  </strong>
+  
+ <p> 
+ JavaScript | Typescript | Golang | Gin | Node.js | <br/>
+ Express | Nest.js | Firebase | noSQL | SQL |  
+</p>
 </p>
 
 <p align="left">
 <p>🔧 DevOps<p/>
- <p>Github Actions | Git | Github Actions | Docker | NgRock | Vercel | Netfly | Heroku | Borh | KingHost | Hostinger | CloudFlare | Amazon AWS <p>
+ <p>
+ Github Actions | Git | Github Actions | Docker | NgRock | Vercel | Netfly | <br/>
+ Heroku | Borh | KingHost | Hostinger | CloudFlare | Amazon AWS <p>
 <p>
 
 

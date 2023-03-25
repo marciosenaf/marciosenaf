@@ -7,7 +7,7 @@ novas tecnologias
 </p>
 
 <p align="left">
- <p>⚙️ Front-End:<p/> 
+ <p>🛣️ Front-End:<p/> 
  <p> 
  JavaScript | HTML5 | CSS3 | SASS | Styled-Components | <br/>
  CSS-in-JS | React.js | Next.js | Figma | PWA
@@ -15,7 +15,7 @@ novas tecnologias
 </p>
 
 <p align="left">
-  <p>🔧 Back-End:<p/>
+  <p>⚙️ Back-End:<p/>
   
  <p> 
  JavaScript | Typescript | Golang | Gin | Node.js | <br/>
@@ -24,9 +24,9 @@ novas tecnologias
 </p>
 
 <p align="left">
-<p>🔧 DevOps<p/>
+<p>🌐 DevOps<p/>
  <p>
- Github Actions | Git | Github Actions | Docker | NgRock | Vercel | Netfly | <br/>
+ Github Actions | Git | Docker | NgRock | Vercel | Netfly | <br/>
  Heroku | Borh | KingHost | Hostinger | CloudFlare | Amazon AWS <p>
 <p>
 

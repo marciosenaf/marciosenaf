@@ -8,14 +8,14 @@ novas tecnologias
 
  <b align="left">🛣️ Front-End:</b> 
  <p> 
- JavaScript | HTML5 | CSS3 | SASS | Styled-Components | <br/>
- CSS-in-JS | React.js | Next.js | Figma | PWA
+ JavaScript | HTML5 | CSS3 | Styled-Components | <br/> 
+ SASS | CSS-in-JS | bootstrap | React.js | Next.js | Figma | PWA
 </p>
 
   <b align="left">⚙️ Back-End:</b>
  <p align="left"> 
- JavaScript | Typescript | Golang | Gin | Node.js | <br/>
- Express | Nest.js | Firebase | noSQL | SQL |  
+ JavaScript | Typescript | Golang | Node.js | <br/>
+  Gin | Express | Nest.js | Firebase | noSQL | SQL |  
 </p>
 
 <b align="left">🌐 DevOps</b>

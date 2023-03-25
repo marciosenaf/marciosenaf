@@ -6,29 +6,23 @@ sistemas pela Unicesumar. Motivado, proativo e sempre buscando aprender
 novas tecnologias
 </p>
 
-<p align="left">
- <p>🛣️ Front-End:<p/> 
+ <b align="left">🛣️ Front-End:</b> 
  <p> 
  JavaScript | HTML5 | CSS3 | SASS | Styled-Components | <br/>
  CSS-in-JS | React.js | Next.js | Figma | PWA
 </p>
-</p>
 
-<p align="left">
-  <p>⚙️ Back-End:<p/>
-  
- <p> 
+  <b align="left">⚙️ Back-End:</b>
+ <p align="left"> 
  JavaScript | Typescript | Golang | Gin | Node.js | <br/>
  Express | Nest.js | Firebase | noSQL | SQL |  
 </p>
-</p>
 
-<p align="left">
-<p>🌐 DevOps<p/>
- <p>
+<b align="left">🌐 DevOps</b>
+ <p align="left">
  Github Actions | Git | Docker | NgRock | Vercel | Netfly | <br/>
- Heroku | Borh | KingHost | Hostinger | CloudFlare | Amazon AWS <p>
-<p>
+ Heroku | Borh | KingHost | Hostinger | CloudFlare | Amazon AWS 
+</p>
 
 
 

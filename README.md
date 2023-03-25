@@ -1,4 +1,4 @@
-<img src="https://github.com/marciosenaf/marciosenaf/blob/main/img/image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/marciosenaf/marciosenaf/blob/main/img/image.png" min-width="200px" max-width="400px" width="550px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 Desenvolvedor full stack com experiência em projetos web e aplicativos. Formando em análise e desenvolvimento de
@@ -7,16 +7,24 @@ novas tecnologias
 </p>
 
 <p align="left">
- ⚙️ Linguagens: <strong>Javascript, Typescript e SQL.</strong>
+ <p>⚙️ Front-End:<p/> 
+ <p> JavaScript | HTML5 | CSS3 | SASS | CSS-in-JS | Styled-Components | React.js | Next.js | Figma | PWA </p>
 </p>
 
 <p align="left">
-  🔧 Frameworks: <strong>React, Next, Nest e Express.</strong>
+  <p>🔧 Back-End:<p/>
+ <p> JavaScript | Typescript | Golang | Gin | Node.js | Express | Nest.js | Firebase | noSQL | SQL |  </strong>
 </p>
 
 <p align="left">
-  🌐 Precisa de alguém que crie soluçoes? Entre em contato:
-</p>
+<p>🔧 DevOps<p/>
+ <p>Github Actions | Git | Github Actions | Docker | NgRock | Vercel | Netfly | Heroku | Borh | KingHost | Hostinger | CloudFlare | Amazon AWS <p>
+<p>
+
+
+
+
+
 
 <p align="left" >
   

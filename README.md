@@ -1,11 +1,13 @@
-<img src="https://github.com/marciosenaf/marciosenaf/blob/main/img/image.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/marciosenaf/marciosenaf/blob/main/img/image.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 Desenvolvedor full stack com experiência em projetos web e aplicativos. Formando em análise e desenvolvimento de
 sistemas pela Unicesumar. Motivado, proativo e sempre buscando aprender
 novas tecnologias
 </p>
-
+<br/>
+<br/>
+<br/>
  <b align="left">🛣️ Front-End:</b> 
  <p> 
  JavaScript | HTML5 | CSS3 | Styled-Components | <br/> 

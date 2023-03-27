@@ -1,4 +1,4 @@
-<img src="https://github.com/marciosenaf/marciosenaf/blob/main/img/image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/marciosenaf/marciosenaf/blob/main/img/image.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 Desenvolvedor full stack com experiência em projetos web e aplicativos. Formando em análise e desenvolvimento de

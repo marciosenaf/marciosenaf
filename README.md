@@ -1,12 +1,11 @@
-<img src="https://github.com/marciosenaf/marciosenaf/blob/main/img/image.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
-
 <p align="left"> 
-Desenvolvedor full stack com experiência em projetos web e aplicativos. Formando em análise e desenvolvimento de
+<i>
+ Desenvolvedor full stack com experiência em projetos web e aplicativos. Formando em análise e desenvolvimento de
 sistemas pela Unicesumar. Motivado, proativo e sempre buscando aprender
 novas tecnologias
+ <i>;
 </p>
-<br/>
-<br/>
+
 <br/>
  <p align="left"> 
  <b align="left">🛣️ Front-End:</b> 

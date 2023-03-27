@@ -8,29 +8,25 @@ novas tecnologias
 <br/>
 <br/>
 <br/>
+ <p align="left"> 
  <b align="left">🛣️ Front-End:</b> 
- <p> 
- JavaScript | HTML5 | CSS3 | Styled-Components | <br/> 
+ JavaScript | HTML5 | CSS3 | Styled-Components | 
  SASS | CSS-in-JS | bootstrap | React.js | Next.js | Figma | PWA
 </p>
 
-  <b align="left">⚙️ Back-End:</b>
- <p align="left"> 
- JavaScript | Typescript | Golang | Node.js | <br/>
+ <p align="left">
+  <b align="left">⚙️ Back-End:</b> 
+ JavaScript | Typescript | Golang | Node.js | 
   Gin | Express | Nest.js | Firebase | noSQL | SQL |  
 </p>
 
+<p align="left">
 <b align="left">🌐 DevOps</b>
- <p align="left">
- Github Actions | Git | Docker | NgRock | Vercel | Netfly | <br/>
+ Github Actions | Git | Docker | NgRock | Vercel | Netfly | 
  Heroku | Borh | KingHost | Hostinger | CloudFlare | Amazon AWS 
 </p>
 
-
-
-
-
-
+<br/>
 <p align="left" >
   
   <a href="https://marcio.pages.dev/" alt="Portifolio" target="_blank"><img hspace="3" width="100" src="https://img.shields.io/badge/website-ff0077?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
